@@ -19,7 +19,7 @@
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/mqtt-to-db.git
+    git clone https://github.com/SeenKid/mqtt-to-db.git
     cd mqtt-to-db
     ```
 
