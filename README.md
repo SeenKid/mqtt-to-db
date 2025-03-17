@@ -34,7 +34,6 @@
 Edit the `index.js` file to fill the missing database and mqtt broker credentials.
 
 ## Launch
-
-    ```bash
+    
     node index.js
-    ```
+    
